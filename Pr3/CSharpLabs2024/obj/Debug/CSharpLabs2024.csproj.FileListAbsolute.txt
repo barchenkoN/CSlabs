@@ -1,0 +1,7 @@
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\bin\Debug\CSharpLabs2024.exe.config
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\bin\Debug\CSharpLabs2024.exe
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\bin\Debug\CSharpLabs2024.pdb
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\obj\Debug\CSharpLabs2024.csproj.AssemblyReference.cache
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\obj\Debug\CSharpLabs2024.csproj.CoreCompileInputs.cache
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\obj\Debug\CSharpLabs2024.exe
+C:\Users\booki\source\repos\CSharpLabs2024\CSharpLabs2024\obj\Debug\CSharpLabs2024.pdb
